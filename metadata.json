@@ -2,5 +2,5 @@
   "name": "Hastakala",
   "description": "An exquisite hand-drawn style e-commerce marketplace connecting global connoisseurs with local master artisans.",
   "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+  "majorCapabilities": []
 }
