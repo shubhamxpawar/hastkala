@@ -8,7 +8,7 @@ export const ARTISANS: Artisan[] = [
     location: 'Varanasi, Uttar Pradesh',
     image: 'https://images.unsplash.com/photo-1544005313-94ddf0286df2?auto=format&fit=crop&q=80&w=600',
     bio: 'Preserving the ancient techniques of hand-spun indigo dyeing and double-beam shuttle weaving.',
-    storyDetails: 'Aanya Sharma has been sitting at her family’s handloom since she was seven. Born into a long lineage of master weavers in Varanasi, she represents the fifth generation carrying on the traditional double-beam indigo shuttle weaving. Every throw she creates is an exercise in pure patience—taking over three weeks of spinning, natural vat indigo-dyeing, and synchronized foot pedal work. Aanya is committed to training the next generation of women in her community to keep this slow-craft heritage alive.',
+    storyDetails: 'Aanya Sharma has been sitting at her family’s handloom since she was seven. Born into a long lineage of master weavers in Varanasi, she represents the fifth generation carrying on the traditional double-beam indigo shuttle weaving. Every throw she creates is an exercise in pure patience-taking over three weeks of spinning, natural vat indigo-dyeing, and synchronized foot pedal work. Aanya is committed to training the next generation of women in her community to keep this slow-craft heritage alive.',
     techniques: [
       'Double-beam Loom Weaving',
       'Resist Hand-Block Printing',
@@ -414,9 +414,9 @@ export const ARTICLES: EditorialArticle[] = [
     id: 'living-indigo',
     title: 'The Living Indigo Vat: A Breath of History',
     excerpt: 'Deep dive into the delicate biochemistry of fermented indigo dye, a liquid ecosystem that breathes, feeds, and matures over years.',
-    content: `Organic Indigo dyeing is not simply a color process—it is a partnership with a living colony. Unlike synthetic dyes that rely on heavy metallic agents to bind to fabric, pure indigo is an anaerobic vat ferment. The vat is fed with natural minerals and sugar sources—specifically limestone and local palm sugar or jaggery.
+    content: `Organic Indigo dyeing is not simply a color process-it is a partnership with a living colony. Unlike synthetic dyes that rely on heavy metallic agents to bind to fabric, pure indigo is an anaerobic vat ferment. The vat is fed with natural minerals and sugar sources-specifically limestone and local palm sugar or jaggery.
 
-Every morning, master dyers like Aanya Sharma inspect their indigo vats. They look at the color of the "indigo flower"—the iridescent purple froth that forms on the surface of the vat. A sweet, yeasty smell indicates a healthy environment. If the vat is too acidic, it is fed lime; if too sleepy, it receives jaggery.
+Every morning, master dyers like Aanya Sharma inspect their indigo vats. They look at the color of the "indigo flower"-the iridescent purple froth that forms on the surface of the vat. A sweet, yeasty smell indicates a healthy environment. If the vat is too acidic, it is fed lime; if too sleepy, it receives jaggery.
 
 When fabric is submerged into the vat, it actually emerges *bright yellow-green*. It is only when the wet fibers touch the oxygen in the air that a magical chemical reaction occurs, transforming the fiber into the deep, rich, soulful blue we call Indigo. This is why every dip is a direct record of the weather, humidity, and the spirit of the vat on that specific day.`,
     image: 'https://images.unsplash.com/photo-1528459801416-a9e53bbf4e17?auto=format&fit=crop&q=80&w=600',
@@ -431,7 +431,7 @@ When fabric is submerged into the vat, it actually emerges *bright yellow-green*
 
 "When you use an electric wheel, the motor spins at a perfectly constant speed. This forces your clay to behave perfectly," Anjali explains. "But a kickwheel responds to the resistance of your own hands. As you pull the clay up, the wheel slows down slightly. There is a physical dialog occurring."
 
-This subtle, organic speed variance produces micro-ripples along the inside of a clay vessel. These lines are virtually invisible to the eye but instantly tactile to the hands. They represent the exact weight, torque, and movement of the potter’s body at that specific minute—making each ceramic item a truly unrepeatable, unique archival capture.`,
+This subtle, organic speed variance produces micro-ripples along the inside of a clay vessel. These lines are virtually invisible to the eye but instantly tactile to the hands. They represent the exact weight, torque, and movement of the potter’s body at that specific minute-making each ceramic item a truly unrepeatable, unique archival capture.`,
     image: 'https://images.unsplash.com/photo-1576016770956-debb63d900bb?auto=format&fit=crop&q=80&w=600',
     date: 'May 28, 2026',
     readTime: '5 min read'

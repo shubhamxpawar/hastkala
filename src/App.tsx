@@ -8,8 +8,12 @@ import { ShopView } from './components/ShopView';
 import { ProductDetailView } from './components/ProductDetailView';
 import { ArtisanProfileView } from './components/ArtisanProfileView';
 import { AboutView } from './components/AboutView';
+import { useLenis } from './hooks/useLenis';
 
 export default function App() {
+
+  useLenis();
+
   const [view, setView] = useState<ViewState>('home');
   const [selectedProductId, setSelectedProductId] = useState<string>('indigo-crest');
   const [selectedArtisanId, setSelectedArtisanId] = useState<string>('anjali');
